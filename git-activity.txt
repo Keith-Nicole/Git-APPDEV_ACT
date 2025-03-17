@@ -1,3 +1,5 @@
 This is my first Git activity.
 
 Information added for feature-branch: I am finding it fun.
+
+Another context added: I am almost done.
